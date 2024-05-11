@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Algiuxs
-- 👀 I’m interested in coding, modeling
-- 🌱 I’m currently learning java, c, cpp
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning java, c, cpp.
+- I'm self taught programer for java.
 
 <!---
 Algiuxs/Algiuxs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
