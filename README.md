@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Algiuxs
-- I’m currently learning cpp.
-- I'm self taught programer for java.
+- I'm a self taught programer for java and cpp.
 - I'm 14 years old.
 - My native language is lithuanian, but I also speak english.
 - Coding as a hobby.
